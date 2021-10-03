@@ -1,0 +1,32 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target '3PatternRxSwiftSample' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for 3PatternRxSwiftSample
+
+
+pod 'R.swift'
+  pod 'Alamofire'
+
+  pod 'RxSwift'
+  pod 'RxCocoa'
+
+  pod 'NSObject+Rx'
+  pod 'RxOptional'
+
+
+
+
+  target '3PatternRxSwiftSampleTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target '3PatternRxSwiftSampleUITests' do
+    # Pods for testing
+  end
+
+end

@@ -1,0 +1,49 @@
+PODS:
+  - Alamofire (5.4.3)
+  - "NSObject+Rx (5.2.2)":
+    - RxSwift (~> 6.2)
+  - R.swift (5.4.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - RxCocoa (6.2.0):
+    - RxRelay (= 6.2.0)
+    - RxSwift (= 6.2.0)
+  - RxOptional (5.0.2):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.2.0):
+    - RxSwift (= 6.2.0)
+  - RxSwift (6.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - "NSObject+Rx"
+  - R.swift
+  - RxCocoa
+  - RxOptional
+  - RxSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - "NSObject+Rx"
+    - R.swift
+    - R.swift.Library
+    - RxCocoa
+    - RxOptional
+    - RxRelay
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: e447a2774a40c996748296fa2c55112fdbbc42f9
+  "NSObject+Rx": 61cf1f7306a73dcef8b36649198af0813ec18dfd
+  R.swift: c533450b0f7dc494e0993f5f1a1db925d84c3006
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  RxCocoa: 4baf94bb35f2c0ab31bc0cb9f1900155f646ba42
+  RxOptional: 3664964c96b69dd20c9cf78bdfe546615e26eca8
+  RxRelay: e72dbfd157807478401ef1982e1c61c945c94b2f
+  RxSwift: d356ab7bee873611322f134c5f9ef379fa183d8f
+
+PODFILE CHECKSUM: 1beeb5dbb7bd80dd01d20d6494578fae2f33b6dc
+
+COCOAPODS: 1.10.0
