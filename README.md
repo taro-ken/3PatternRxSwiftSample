@@ -1,0 +1,2 @@
+# 3PatternRxSwiftSample
+RxSwift使わないでMVCでやる,RxSwift使ってMVCでやる,RxSwift使ってMVVMでやる 3パターンで作成
